@@ -5,5 +5,6 @@
 절차 : 
   1. 개회사 
   2. 축사 
-  3. 공연 
-  4. 다과
+  3. 공연 : "Good Bye ~" 보컬 그룹, "Music Studio" 
+  4. 다과 : Pizza Hub 
+
